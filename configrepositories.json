@@ -1,0 +1,8 @@
+﻿{
+    "repositories": [
+        "KnifeWrench/moby.nvim",
+        "KnifeWrench/kickstart.nvim",
+        "KnifeWrench/NormalNvim",
+        "lunarvim/lunarvim"
+    ]
+}
